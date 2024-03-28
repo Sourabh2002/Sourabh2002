@@ -1,10 +1,10 @@
 # Hi there, I'm Sourabh! 👋
 
-I'm an Engineer student with information technology stream, India. Welcome to my GitHub profile!
+I'm an Engineer student with information technology stream. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🎓 Graduated from [Technocrats Institute of Technology, Bhopal]
+- 🎓 Graduating from [Technocrats Institute of Technology, Bhopal]
 - 💼 Currently working as [Your Job Title/Position]
 
 ## Skills
