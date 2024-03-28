@@ -4,7 +4,7 @@ I'm an Engineer student with information technology stream. Welcome to my GitHub
 
 ## About Me
 
-- 🎓 Graduating from [Technocrats Institute of Technology, Bhopal]
+- 🎓 Graduate from [Technocrats Institute of Technology, Bhopal]
 - 💼 Currently working as [Your Job Title/Position]
 
 ## Skills
